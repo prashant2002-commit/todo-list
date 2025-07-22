@@ -19,7 +19,8 @@ Features
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript **
+  ![image-alt](https://github.com/prashant2002-commit/todo-list/blob/4bd85534b80f7ce22bad7442a980849b331ff17e/assets/Screenshot%202025-07-22%20125158.png)
 - **Confetti effect** 
 
 ```html
