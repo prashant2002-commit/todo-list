@@ -20,7 +20,7 @@ Features
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **Confetti effect** from [Canvas Confetti CDN](https://cdn.jsdelivr.net/npm/canvas-confetti)
+- **Confetti effect** 
 
 ```html
 <!-- CDN used for confetti -->
